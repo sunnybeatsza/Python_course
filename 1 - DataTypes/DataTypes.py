@@ -25,5 +25,6 @@ list3 = ["Item1", 2, 100.50]
 #This is an example of a tuple data type
 #Note - A tuple can have multiple data types stored in a collection
 tuple1 = (10,"Aang",100.50)
+tuple2 = (45,"Sokka","")
 
 
